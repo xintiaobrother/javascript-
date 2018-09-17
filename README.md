@@ -1,7 +1,7 @@
 # javascriptNotes
 
-* Array
-### Array数组找到重复和位置
+### Array
+* Array数组找到重复和位置
 ```
 let repeat = [1,2,3,3,3,1,4] 
 repeat.forEach((item, index) => {
