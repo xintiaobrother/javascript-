@@ -11,3 +11,4 @@ repeat.forEach((item, index) => {
 	console.log(item, index)
    }
 })
+### 其他。。
