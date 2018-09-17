@@ -1,7 +1,7 @@
 # javascriptNotes
 
-### Array
-#### Array数组找到重复和位置
+* Array
+### Array数组找到重复和位置
 ```
 let repeat = [1,2,3,3,3,1,4] 
 repeat.forEach((item, index) => {
@@ -11,6 +11,7 @@ repeat.forEach((item, index) => {
 	console.log(item, index)
    }
 })
+```
 ### 基于mac linux git生成shh
 ```
   ssh-keygen -t rsa -C  email  // email就是你的邮箱。他会提示你生成目录 .ssh/id_rsa 确定就好。然后你已经生成了他还会提示你覆盖.
