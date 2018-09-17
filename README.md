@@ -12,7 +12,8 @@ repeat.forEach((item, index) => {
    }
 })
 ```
-### 基于mac linux git生成shh
+### SSH
+* 基于mac linux git生成ssh
 ```
   ssh-keygen -t rsa -C  email  // email就是你的邮箱。他会提示你生成目录 .ssh/id_rsa 确定就好。然后你已经生成了他还会提示你覆盖.
   ls -a //查看你的目录 -a显示你的隐藏目录。
